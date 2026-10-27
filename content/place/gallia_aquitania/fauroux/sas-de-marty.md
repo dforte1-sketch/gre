@@ -2,7 +2,7 @@
 slug: "d6e43a66ac"
 type: garden
 title: Sas-de-Marty
-latlon: [ 44.247221° N, 1.020308° E]
+latlon: [ 44.247221, 1.020308]
 author: Eric Morvillez, Clopper Almon
 contributor: Daniela Forte
 date: 2026-10-27
